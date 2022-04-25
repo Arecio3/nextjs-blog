@@ -15,7 +15,7 @@ const Home: NextPage = () => {
 
       <div className='flex justify-between items-center bg-gray-100 border-b border-black py-10 lg:py-0'>
         <div className='px-10 space-y-5'>
-          <h1 className='text-6xl max-w-xl'><span className='underline decoration-black'>Theroies</span> is the place to write and read about Conspiracies.</h1>
+          <h1 className='text-6xl max-w-xl'><span className='underline decoration-black'>Theories</span> is the place to write and read about Conspiracies.</h1>
           <h2>Free to read and post! No need for an account or anything that's annoying as hell :)</h2>
         </div>
         <div>
