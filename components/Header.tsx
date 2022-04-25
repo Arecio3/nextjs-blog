@@ -11,6 +11,7 @@ function Header() {
             <img className="w-32 object-contain cursor-pointer rounded-full m-1" src='https://www.nicepng.com/png/detail/57-571836_gangsta-logo-by-mariobli-alien-logo-png.png'/>
           </Link>
           <div className='hidden md:inline-flex items-center space-x-5 mb-16'>
+            <h1 className='font-extrabold italic text-3xl'>Theories</h1>
             <h3>About</h3>
             <h3>Contact</h3>
             <h3 className='text-white bg-green-600 px-4 rounded-full'>Follow</h3>
